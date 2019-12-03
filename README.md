@@ -44,9 +44,8 @@ pip3 install opencv-contrib-python numpy
 ## How Images Were Captured
 I wrote a C# application to capture from both the Front Camera and Backlit Near-Infrared Camera simultaneously.  
 An early version of my code can be found [here](https://github.com/KnowledgePending/OpenCV_Surface_Near_Infrared).  
-<video controls autoplay loop>
-  <source src="https://bryanflood.ie/img/infrared-application.mp4" type="video/mp4">
-</video>
+
+<img src="./images/app.gif"/>
 
 ## Output of the Code
 Along with the actually measurement we display key stats and visualisations.  
